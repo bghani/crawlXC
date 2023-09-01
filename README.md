@@ -1,7 +1,7 @@
 # crawlXC
 Crawl the Xeno-canto API 
 
-#Bash Script for Data Collection
+# Bash Script for Data Collection
 
 Description
 
